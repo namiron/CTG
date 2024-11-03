@@ -1,0 +1,6 @@
+@import "../../../assets//common/variables.scss";
+
+.layout {
+  height: 100%;
+  @extend %container;
+}

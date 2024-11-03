@@ -1,0 +1,10 @@
+@import "../../../assets//common/variables.scss";
+
+.header {
+  @extend %displayComplect;
+}
+.teamIcon {
+  font-size: 26px;
+  margin-right: 12px;
+  color: #fff;
+}

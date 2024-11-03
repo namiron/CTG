@@ -1,0 +1,10 @@
+@import "../../../assets/common/variables.scss";
+
+.holder {
+  flex: 1 1 auto;
+}
+
+.footerModal {
+  @extend %flex;
+  gap: 10px;
+}

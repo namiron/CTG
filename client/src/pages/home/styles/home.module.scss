@@ -1,0 +1,9 @@
+@import "../../../assets//common/variables.scss";
+
+.holder {
+  flex: 1 1 auto;
+}
+.add {
+  max-width: 200px;
+  @include adaptive-value("margin-bottom", 20, 10, 1440);
+}
